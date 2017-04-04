@@ -14,7 +14,7 @@ public class Example1to13 {
 		long regNo = 1234512345123L;
 		
 		//3.
-			//리터럴 : 100L (정답. 100, 100L, 3.14f)
+			//리터럴 : 100, 100L, 3.14f
 			//변수 : i, l
 			//키워드 : int, long, final, float
 			//상수 : PI
