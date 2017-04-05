@@ -3,7 +3,7 @@ package eypark.chap04;
 public class Example15 {
 
 	public static void main(String[] args) {
-		int number = 12321;
+		int number = 13531;
 		int tmp = number;
 		
 		int result = 0;
